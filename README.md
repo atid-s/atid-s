@@ -1,4 +1,9 @@
 ## Hi there 👋
+### 🌱 I’m currently learning 
+# HOW TO USE GITHUB!!!
+
+### 🔭 I’m currently working on
+# A Git Page to showcase my Japan trip
 
 <!--
 **atid-s/atid-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
